@@ -15,3 +15,10 @@ What kind of columns a have?
 - country's expeected years of schooling
 - mean years of schooling
 - the gross national income per capita 
+
+####
+- natural increase
+- electricity consumption per person
+- GDP overall and GDP per capita
+- using internet
+- 
